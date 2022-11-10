@@ -313,7 +313,7 @@ public class Main {
         }*/
 
         /*double lung = 0.5;
-        int n = 10;
+        int n = 5;
         Tartaruga t1 = new Tartaruga(0.5 - lung/2, 0.5 - (lung/3), 60, BLU);
         t1.setGrossezza(0.005);
         triforza(t1, lung, n);*/
