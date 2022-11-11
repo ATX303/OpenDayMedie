@@ -282,7 +282,7 @@ public class Main {
         t1.setGrossezza(0.003);
         albero(t1, lungRamo, n);*/
 
-        double lungRamo = 0.4;
+        /*double lungRamo = 0.4;
         setFinestra(1000, 1000, "banana");
         int n = 15;
         Tartaruga t1 = new Tartaruga(0.5, 0.2, 90, MARRONE);
@@ -295,7 +295,7 @@ public class Main {
         t1.setColore(new Color(z%255, x%255, y%255));
         lungRamo = 0.1;
         t1.avanti(lungRamo);
-        albero1(t1, lungRamo, n);
+        albero1(t1, lungRamo, n);*/
 
         /*double lung=1, y=1, x=0;
         int n=7;
